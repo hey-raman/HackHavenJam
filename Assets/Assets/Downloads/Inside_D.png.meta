@@ -1,0 +1,3223 @@
+fileFormatVersion: 2
+guid: 9a4976839fda8e543a08d5be9499dd3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6607281169377545052
+    second: Inside_D_0
+  - first:
+      213: 4271816393288225302
+    second: Inside_D_1
+  - first:
+      213: 8732632087902848482
+    second: Inside_D_2
+  - first:
+      213: 3334066722248245119
+    second: Inside_D_3
+  - first:
+      213: -8925873042360070073
+    second: Inside_D_4
+  - first:
+      213: -3322034363396742519
+    second: Inside_D_5
+  - first:
+      213: 7587225965352318012
+    second: Inside_D_6
+  - first:
+      213: 6553472221097547033
+    second: Inside_D_7
+  - first:
+      213: -6401293465431776349
+    second: Inside_D_8
+  - first:
+      213: 204549223098782097
+    second: Inside_D_9
+  - first:
+      213: -2211955180831505434
+    second: Inside_D_10
+  - first:
+      213: 9114694236309029168
+    second: Inside_D_11
+  - first:
+      213: 9100525978732435826
+    second: Inside_D_12
+  - first:
+      213: 3966616878047728209
+    second: Inside_D_13
+  - first:
+      213: 2508572955818784258
+    second: Inside_D_14
+  - first:
+      213: 7489427863922369712
+    second: Inside_D_15
+  - first:
+      213: 3480556885949787683
+    second: Inside_D_16
+  - first:
+      213: -3450471413764292
+    second: Inside_D_17
+  - first:
+      213: 8695187595094344488
+    second: Inside_D_18
+  - first:
+      213: 7960916677418558300
+    second: Inside_D_19
+  - first:
+      213: -6722223895734300800
+    second: Inside_D_20
+  - first:
+      213: 7736749664109178025
+    second: Inside_D_21
+  - first:
+      213: 8877428175602198606
+    second: Inside_D_22
+  - first:
+      213: -2273266161599625681
+    second: Inside_D_23
+  - first:
+      213: 4153604348829951195
+    second: Inside_D_24
+  - first:
+      213: -6936093562750317313
+    second: Inside_D_25
+  - first:
+      213: 8421156636029979610
+    second: Inside_D_26
+  - first:
+      213: -5235938844861733912
+    second: Inside_D_27
+  - first:
+      213: 2898115640224611418
+    second: Inside_D_28
+  - first:
+      213: -7345325520440859597
+    second: Inside_D_29
+  - first:
+      213: -2414348460915298779
+    second: Inside_D_30
+  - first:
+      213: 6782183524419108385
+    second: Inside_D_31
+  - first:
+      213: -1256166491625947948
+    second: Inside_D_32
+  - first:
+      213: 804296910798244652
+    second: Inside_D_33
+  - first:
+      213: 1804981084864464840
+    second: Inside_D_34
+  - first:
+      213: -7443863994636374519
+    second: Inside_D_35
+  - first:
+      213: 7470971833898862329
+    second: Inside_D_36
+  - first:
+      213: -8857829933710642671
+    second: Inside_D_37
+  - first:
+      213: -7568453073625360248
+    second: Inside_D_38
+  - first:
+      213: 2222607302773470648
+    second: Inside_D_39
+  - first:
+      213: -7327339382719653058
+    second: Inside_D_40
+  - first:
+      213: -5254676119340720026
+    second: Inside_D_41
+  - first:
+      213: 755401765674463456
+    second: Inside_D_42
+  - first:
+      213: 1676811010471577389
+    second: Inside_D_43
+  - first:
+      213: -3647484035172726030
+    second: Inside_D_44
+  - first:
+      213: -4700484535918759703
+    second: Inside_D_45
+  - first:
+      213: -7362948138680526554
+    second: Inside_D_46
+  - first:
+      213: -6004850643686397128
+    second: Inside_D_47
+  - first:
+      213: 5682399059241952295
+    second: Inside_D_48
+  - first:
+      213: -61100431446207932
+    second: Inside_D_49
+  - first:
+      213: 6920269548591312316
+    second: Inside_D_50
+  - first:
+      213: 1145032115148669247
+    second: Inside_D_51
+  - first:
+      213: -3719956977810086054
+    second: Inside_D_52
+  - first:
+      213: 4027329907056637806
+    second: Inside_D_53
+  - first:
+      213: -6564440691536272005
+    second: Inside_D_54
+  - first:
+      213: -7562989086455874234
+    second: Inside_D_55
+  - first:
+      213: -7690642670614118914
+    second: Inside_D_56
+  - first:
+      213: 4175882462476783042
+    second: Inside_D_57
+  - first:
+      213: -6705252263292863099
+    second: Inside_D_58
+  - first:
+      213: -5780017717777662473
+    second: Inside_D_59
+  - first:
+      213: 2143377851920792119
+    second: Inside_D_60
+  - first:
+      213: -7711213158395350025
+    second: Inside_D_61
+  - first:
+      213: -1037647617619235251
+    second: Inside_D_62
+  - first:
+      213: 4667532884023879310
+    second: Inside_D_63
+  - first:
+      213: -4611814150728075836
+    second: Inside_D_64
+  - first:
+      213: 4151539669229963046
+    second: Inside_D_65
+  - first:
+      213: 4513490387386521828
+    second: Inside_D_66
+  - first:
+      213: 3936600900392117307
+    second: Inside_D_67
+  - first:
+      213: 6281736460216197543
+    second: Inside_D_68
+  - first:
+      213: 5860848920277321938
+    second: Inside_D_69
+  - first:
+      213: 4721738556623637813
+    second: Inside_D_70
+  - first:
+      213: 8242944786225515699
+    second: Inside_D_71
+  - first:
+      213: 474917557944135449
+    second: Inside_D_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character_Survivor_Girl
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 576
+        width: 30
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f290608cd15a8449d7dccf7fc5afae
+      internalID: 1456292339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VendingMachine_Green
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 480
+        width: 46
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 23, y: -43.5}
+        - {x: 23, y: 44.5}
+        - {x: 22, y: 45.5}
+        - {x: -22, y: 45.5}
+        - {x: -23, y: 44.5}
+        - {x: -23, y: -43.5}
+        - {x: -21, y: -45.5}
+        - {x: 21, y: -45.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c1375ffee7b1e4e825fcc9bbf0e173
+      internalID: 632945164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Counter_Long_Metal
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 713
+        width: 229
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6f7a9e8ffcf4845a22b7c2d2acefdf
+      internalID: -379280511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Bowl_Light
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 631
+        width: 38
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309929ed5d1da9d44ac20893a5e52c49
+      internalID: 60590964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Bowl_Dark
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 631
+        width: 39
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5bdbf2aa9951e41bfcab5fa3ed7b91
+      internalID: -1646724655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Cabinet_Wood
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 528
+        width: 51
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 25.5, y: -10.5}
+        - {x: 25.5, y: 25.5}
+        - {x: 9.5, y: 30.5}
+        - {x: -13.5, y: 30.5}
+        - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -7.5}
+        - {x: -24.5, y: -30.5}
+        - {x: 24.5, y: -30.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af56fae71e372624790f926766e86ae7
+      internalID: -1307856583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Cabinet_Metal
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 528
+        width: 57
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6f8cc790631f04aa95a79f001112ea
+      internalID: -1969943150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toilet_Stall
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 432
+        width: 24
+        height: 58
+      alignment: 9
+      pivot: {x: 0.50000006, y: -0.00481862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cef91a4148f4854a9a6fa02c2ea1956
+      internalID: -615674618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urinal_Wall
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 432
+        width: 25
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28472f6fb40df8a44a20e3c8e43612e4
+      internalID: 1886891174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urinal_Tall
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 442
+        width: 21
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5f61243537ae047a67b11100bfe825
+      internalID: 960669745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Display_Case_Blue
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 492
+        width: 37
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcee99be26c6f24980b30a2f028d0ba
+      internalID: -1759612202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Display_Case_Orange
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 491
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a69e8d2329aa64a97db4db06fe25b8
+      internalID: -928027304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folding_Screen
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 672
+        width: 52
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 26, y: 16.5}
+        - {x: 9, y: 40.5}
+        - {x: -23, y: 40.5}
+        - {x: -23, y: 39.5}
+        - {x: -26, y: -5.5}
+        - {x: -26, y: -20.5}
+        - {x: -17, y: -19.5}
+        - {x: -17, y: -18.5}
+        - {x: 16, y: -40.5}
+        - {x: 26, y: -40.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e921e3cf51c3e46942d4fc3a6f58fa
+      internalID: -1601298826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bench_Wood
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 336
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 36, y: -2}
+        - {x: 36, y: 12}
+        - {x: -36, y: 12}
+        - {x: -36, y: -6}
+        - {x: -34, y: -14}
+        - {x: 34, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22465f1d7d3bd464894fa3015a496b41
+      internalID: -1342594671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r00_c00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f49743559697ea4e82c89ec7a6c6235
+      internalID: -1684367510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r00_c01
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf2b78d6f70e454d9c6a3152ee21212
+      internalID: -1136230687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r00_c02
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a11f254c3f37d4f9a410a909ed13c3
+      internalID: -1958440898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r00_c03
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a214e96a66244004eac406bb5ef2545b
+      internalID: 1455117567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r00_c04
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c45ae7fa0249f0448663e616aa26977
+      internalID: 1546880364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r00_c10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 20, y: 12}
+        - {x: -8, y: 25}
+        - {x: -11, y: 25}
+        - {x: -12, y: 24}
+        - {x: -12, y: -34}
+        - {x: -10, y: -34}
+        - {x: -9, y: -33}
+        - {x: 17, y: -48}
+        - {x: 20, y: -48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70a1087a575c654eb2c9b679678c4ea
+      internalID: 674104682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r00_c11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 672
+        width: 47
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 12.5, y: 24}
+        - {x: 8.5, y: 25}
+        - {x: -19.5, y: 11}
+        - {x: -19.5, y: -48}
+        - {x: 12.5, y: -48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91f030743c0888418e6788fc99f9169
+      internalID: 189220965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r01_c00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d892a40ad1235824db8bbe75ad6eaa92
+      internalID: 2041081187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r01_c01
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f084b841fe99ca6459f5e5dc1bd2b86d
+      internalID: -1650232400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r01_c02
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a7509167fdd64468e67fb3dd42ff4b
+      internalID: -766723878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r01_c03
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a377a650efb6b4dbce90e51b201c91
+      internalID: -806576930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r01_c04
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e741407a32b9e4aafa43cba2a2d12e
+      internalID: -313300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r01_c14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 54
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -39.5}
+        - {x: 27, y: -21.5}
+        - {x: 27, y: 36.5}
+        - {x: 25, y: 40.5}
+        - {x: -1, y: 40.5}
+        - {x: -21, y: 19.5}
+        - {x: -24, y: -39.5}
+        - {x: -24, y: -40.5}
+        - {x: -15, y: -40.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9f947b3b1de694e8b1abaa9b4e6814
+      internalID: -1003990974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r02_c00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ea7c95c0b6b244e8bdfb730fbfd5c8
+      internalID: -1965203724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r02_c01
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982f0238db16d1146973e252d91e1abf
+      internalID: -1623700437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r02_c05
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 575
+        width: 57
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 27.5, y: -43}
+        - {x: 27.5, y: 45}
+        - {x: 26.5, y: 46}
+        - {x: -26.5, y: 46}
+        - {x: -27.5, y: 45}
+        - {x: -27.5, y: -43}
+        - {x: -25.5, y: -45}
+        - {x: 25.5, y: -45}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175d03f2a3311cd4896a20fd2106f2d9
+      internalID: -397480746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r02_c09
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 624
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712933dc49f0d384bba9e6886864c32b
+      internalID: 867930401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r02_c10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cb0b80299103c4b8b287648588079e
+      internalID: -1519889219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r03_c02
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e61956c527eb343bff83782f271389
+      internalID: -1026074045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r03_c03
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523f4d169560aaa48bbce8a142599c76
+      internalID: 1215727847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r03_c08
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 576
+        width: 55
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 27.5, y: -43.5}
+        - {x: 27.5, y: 44.5}
+        - {x: 26.5, y: 45.5}
+        - {x: -26.5, y: 45.5}
+        - {x: -27.5, y: 44.5}
+        - {x: -27.5, y: -43.5}
+        - {x: -25.5, y: -45.5}
+        - {x: 25.5, y: -45.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d4655f18f4466449c4c9e6edebb996
+      internalID: -1296058890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r03_c09
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6646233c36fb1cc4fbe49570cf768dc4
+      internalID: -2077321533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r03_c10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca4e7fea7eba164085fb65df3385202
+      internalID: -1903672783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r04_c02
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f40ee9c331af4a42b3831cfe0056d37
+      internalID: 695065643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r04_c03
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b4966b79372e540aa9e2d329601edc
+      internalID: -827637085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r04_c09
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abf481617076ed4abce6e217cbbf6a0
+      internalID: 1481302557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r04_c10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5641fe83832f662468a210a301814c92
+      internalID: -554266151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r05_c00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bfb4eb5c38eea4a87d3d18c45a28c7
+      internalID: -1348396157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r05_c02
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e709c91ecaf024391df5dec8d11a2c
+      internalID: -323087789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r05_c07
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 480
+        width: 46
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 23, y: -43.5}
+        - {x: 23, y: 44.5}
+        - {x: 22, y: 45.5}
+        - {x: -22, y: 45.5}
+        - {x: -23, y: 44.5}
+        - {x: -23, y: -43.5}
+        - {x: -21, y: -45.5}
+        - {x: 21, y: -45.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6938887f7c04e4f935e7b35a6f3ef0
+      internalID: 262798151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r05_c09
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a78609bc0da85458c276f223d2b9f0
+      internalID: 1888851436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r05_c10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7672229f6cf9f46bbd047e57729d54
+      internalID: -2054277017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r06_c00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb53f210f660c845b98845cf201c95f
+      internalID: 99868768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r06_c01
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8972c7dd801504408111711f7beb72d
+      internalID: 108438318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r06_c02
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d9f0431696f6147bb32d47f65e34dd
+      internalID: -294539149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r06_c07
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 12, y: 14}
+        - {x: -10, y: 14}
+        - {x: -10, y: -17}
+        - {x: 12, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eecc8b68f0e41e4aa1db8b1c57a5f20
+      internalID: -609025341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r06_c08
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 12, y: 22}
+        - {x: -10, y: 22}
+        - {x: -10, y: -24}
+        - {x: 12, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad40c71e8748d04bb113b03e02f5a2b
+      internalID: 1288186856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r06_c11
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 384
+        width: 66
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 33, y: 48}
+        - {x: -33, y: 48}
+        - {x: -33, y: -48}
+        - {x: 33, y: -48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0726e157979c04abe0f73b4c4e5afc
+      internalID: -1702605537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r07_c00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25818fd618afd5f488ac2f89d715371b
+      internalID: 261854928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r07_c05
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 384
+        width: 72
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 36, y: 21}
+        - {x: -36, y: 21}
+        - {x: -36, y: -22}
+        - {x: 36, y: -22}
+      - - {x: -27, y: 2}
+        - {x: -28, y: 3}
+        - {x: 28, y: 3}
+        - {x: 27, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd20627864979e45baf87f79e06334e
+      internalID: -820239552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r07_c07
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8b3d87d99b64b4e9173e0055ac12b1
+      internalID: 1869382829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r07_c08
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6010cc7aee14a14090455792d2d4950
+      internalID: 1819219720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r07_c09
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 422
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 11, y: 29}
+        - {x: -11, y: 29}
+        - {x: -11, y: -29}
+        - {x: 11, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0938b9b34e3464c409ef7c3de5819d8d
+      internalID: 1140879926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r07_c12
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 384
+        width: 66
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 33, y: 48.5}
+        - {x: -33, y: 48.5}
+        - {x: -33, y: -48.5}
+        - {x: 33, y: -48.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f514d18809e80b742b0f48af692384ab
+      internalID: -1755386027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r07_c15
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 396
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a460b3c55d4db3045ba0747ed65f0c71
+      internalID: -1833897086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r08_c00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec8df9a7120b3441b03200936380099
+      internalID: 666223690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r09_c06
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 289
+        width: 72
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 36, y: -4}
+        - {x: 36, y: 11}
+        - {x: -35, y: 11}
+        - {x: -36, y: 10}
+        - {x: -36, y: -5}
+        - {x: -32, y: -12}
+        - {x: 34, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0583b975309122c48a03226f0c46978a
+      internalID: 593852685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r09_c07
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 240
+        width: 74
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 37, y: 38.5}
+        - {x: 36, y: 39.5}
+        - {x: -35, y: 39.5}
+        - {x: -37, y: 37.5}
+        - {x: -37, y: -39.5}
+        - {x: 37, y: -39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cf5ca1757487d4aac86ad399b59de0
+      internalID: 383567016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r09_c09
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 240
+        width: 75
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 37.5, y: 40.5}
+        - {x: -37.5, y: 40.5}
+        - {x: -37.5, y: -40.5}
+        - {x: 37.5, y: -40.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9440ea89083af854092402bf35634f5c
+      internalID: 1645445602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r09_c11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb75a87aa512d154aadc54bff4b050b6
+      internalID: 994671798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r09_c14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8161519db86028042b1ed176ba5d9b94
+      internalID: 64334496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r09_c15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13488c896a44ba4e8f0584c0e956ddb
+      internalID: 496816635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r10_c11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3839701d1a1a7074c999fad5725e1119
+      internalID: -1536058945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r10_c12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c221dacd4118e9e4685d1f23c364442d
+      internalID: 910130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r10_c13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -14}
+        - {x: 16, y: 1}
+        - {x: 13, y: 22}
+        - {x: 12, y: 23}
+        - {x: -16, y: 23}
+        - {x: -17, y: 22}
+        - {x: -17, y: -21}
+        - {x: 13, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7873a2b1851d7448de6c34dd2fe5b4
+      internalID: 1466320879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r10_c14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 21}
+        - {x: 15, y: 22}
+        - {x: -17, y: 22}
+        - {x: -17, y: -22}
+        - {x: 16, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffde087dfbddec42852be3026a2af6f
+      internalID: -1237302722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r10_c15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 12, y: 21}
+        - {x: 11, y: 22}
+        - {x: -17, y: 22}
+        - {x: -18, y: 21}
+        - {x: -18, y: -22}
+        - {x: 12, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda791e2c43fec044b16a3c499454e41
+      internalID: -1757755696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r11_c00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9927768015bf86f4ead7854977cca833
+      internalID: 1538404736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r11_c01
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7538b6e06e729b469094ac5046a6865
+      internalID: 1887524499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r11_c02
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a6b752db1ec6144926edcd6a834cf4
+      internalID: 204240418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r11_c03
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3e853384eb6da46ba4716f275255ca
+      internalID: -1069979932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r11_c04
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95
+        width: 48
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482819f148a10e343abc5bfd3ce1c83a
+      internalID: -1848773240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r11_c14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad42f8326ae8af4ab73f050d152a6c8
+      internalID: 626401166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r11_c15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c535f5a1bba7c4a438c9b30fd22077cc
+      internalID: 726987754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r12_c06
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42756181355f9f40a6fae0a35f7ecb2
+      internalID: 1977651749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r12_c07
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 102
+        width: 38
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: 1}
+        - {x: 14, y: 22}
+        - {x: 1, y: 26}
+        - {x: -11, y: 26}
+        - {x: -11, y: -33}
+        - {x: -10, y: -34}
+        - {x: 12, y: -34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ed4be7679601044bc45f963eecbddb
+      internalID: -613873914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r12_c11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81e5d5833836c240b0a66a3f6e50409
+      internalID: 494063207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r12_c12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88c2674f269501418b72644f1334f63
+      internalID: -1873514093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r12_c13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfd4e643560d90429f9a3ee5d455f4d
+      internalID: 2070601452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r12_c14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0f82529bcda74438a56fd692bed868
+      internalID: 2039723870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r12_c15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd7862251a42d643acb5670d30e5db9
+      internalID: -1959419867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r13_c10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fd99328b082014f9b0f82b9812e0fc
+      internalID: -447734021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r13_c11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e40b17621dd2b944b1d4f205a91f208
+      internalID: -798459393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r13_c12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9820cd4a73959d44daa6b64e059191de
+      internalID: -307229059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r13_c13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926ae989f7db7a24f83432b51631aee7
+      internalID: 1439577862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r13_c14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f850015f28910df469fea0b77bc65cef
+      internalID: -367785759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r13_c15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03499f85eb9c43543b3a203b3766c970
+      internalID: 302727470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r14_c00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13081677f943c74aa95cf7255e82327
+      internalID: 890930114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r14_c01
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d76e1867ac4e774993c5aa5933128e8
+      internalID: 1653143021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r14_c05
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed603d136a4c66649ae11615f5eb3a4e
+      internalID: -703529593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r14_c06
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb72eea1936ed4f4bb91e1484af60e52
+      internalID: -576624369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r14_c07
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb46eff28bef6344f953d8475d1097f2
+      internalID: 928231770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r14_c08
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5d78ecb00814542b11936136a115cf
+      internalID: -715769777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r14_c09
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9ebf66f98bf014e8c8995f4c8f7005
+      internalID: 2055210741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r14_c10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd04d042e4b67947ace2ded920299ce
+      internalID: 1855408452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r14_c11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f1853174e300446948a67e4fdf5752
+      internalID: 1147050503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r14_c12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb16fb1cae783df4fb3a100dbe0d010e
+      internalID: -1665086399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r14_c13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fce85428f6dd640a7da91d183ea53b
+      internalID: -1594116470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r14_c14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4ebcb751a86c947a63b0ce43af3a24
+      internalID: -1691102267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r15_c00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388cf00d52a47594a96e0da4b1e8f887
+      internalID: -2106968862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r15_c06
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b99d916788a903489cf32450ee79684
+      internalID: -2023226103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r15_c07
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941900eba3a23db449a341d5b8c88bc5
+      internalID: -580274978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r15_c08
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab2722adf649ba4d822b6372691fedb
+      internalID: 460813795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r15_c09
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eef7c5494262f8448d6de3b471c4763
+      internalID: -1044021573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r15_c10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144d1c0aa5657f043b00a9a87b1a8359
+      internalID: -2101972035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r15_c11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb4efc4378aae2408584d7d434e6492
+      internalID: -1642856209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r15_c12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcaaaa47f1b8be4993ca169119a30a6
+      internalID: -1206407978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r15_c13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27ebe1271cc3454a8035f28ece7a2e7
+      internalID: 1948928826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_D_Tile_r15_c14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f356ea3c1fb53b4cbf73ced7cccce15
+      internalID: -837824228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 35819c87d9953424f9daefc1f99e8bfa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bench_Gym: -1295792641
+      Bench_Wood: -1342594671
+      Character_Survivor_Girl: 1456292339
+      Counter_Long_Metal: -379280511
+      Display_Case_Blue: -1759612202
+      Display_Case_Orange: -928027304
+      Folding_Screen: -1601298826
+      Inside_D_0: -6607281169377545052
+      Inside_D_1: 4271816393288225302
+      Inside_D_10: -2211955180831505434
+      Inside_D_11: 9114694236309029168
+      Inside_D_12: 9100525978732435826
+      Inside_D_13: 3966616878047728209
+      Inside_D_14: 2508572955818784258
+      Inside_D_15: 7489427863922369712
+      Inside_D_16: 3480556885949787683
+      Inside_D_17: -3450471413764292
+      Inside_D_18: 8695187595094344488
+      Inside_D_19: 7960916677418558300
+      Inside_D_2: 8732632087902848482
+      Inside_D_20: -6722223895734300800
+      Inside_D_21: 7736749664109178025
+      Inside_D_22: 8877428175602198606
+      Inside_D_23: -2273266161599625681
+      Inside_D_24: 4153604348829951195
+      Inside_D_25: -6936093562750317313
+      Inside_D_26: 8421156636029979610
+      Inside_D_27: -5235938844861733912
+      Inside_D_28: 2898115640224611418
+      Inside_D_29: -7345325520440859597
+      Inside_D_3: 3334066722248245119
+      Inside_D_30: -2414348460915298779
+      Inside_D_31: 6782183524419108385
+      Inside_D_32: -1256166491625947948
+      Inside_D_33: 804296910798244652
+      Inside_D_34: 1804981084864464840
+      Inside_D_35: -7443863994636374519
+      Inside_D_36: 7470971833898862329
+      Inside_D_37: -8857829933710642671
+      Inside_D_38: -7568453073625360248
+      Inside_D_39: 2222607302773470648
+      Inside_D_4: -8925873042360070073
+      Inside_D_40: -7327339382719653058
+      Inside_D_41: -5254676119340720026
+      Inside_D_42: 755401765674463456
+      Inside_D_43: 1676811010471577389
+      Inside_D_44: -3647484035172726030
+      Inside_D_45: -4700484535918759703
+      Inside_D_46: -7362948138680526554
+      Inside_D_47: -6004850643686397128
+      Inside_D_48: 5682399059241952295
+      Inside_D_49: -61100431446207932
+      Inside_D_5: -3322034363396742519
+      Inside_D_50: 6920269548591312316
+      Inside_D_51: 1145032115148669247
+      Inside_D_52: -3719956977810086054
+      Inside_D_53: 4027329907056637806
+      Inside_D_54: -6564440691536272005
+      Inside_D_55: -7562989086455874234
+      Inside_D_56: -7690642670614118914
+      Inside_D_57: 4175882462476783042
+      Inside_D_58: -6705252263292863099
+      Inside_D_59: -5780017717777662473
+      Inside_D_6: 7587225965352318012
+      Inside_D_60: 2143377851920792119
+      Inside_D_61: -7711213158395350025
+      Inside_D_62: -1037647617619235251
+      Inside_D_63: 4667532884023879310
+      Inside_D_64: -4611814150728075836
+      Inside_D_65: 4151539669229963046
+      Inside_D_66: 4513490387386521828
+      Inside_D_67: 3936600900392117307
+      Inside_D_68: 6281736460216197543
+      Inside_D_69: 5860848920277321938
+      Inside_D_7: 6553472221097547033
+      Inside_D_70: 4721738556623637813
+      Inside_D_71: 8242944786225515699
+      Inside_D_72: 474917557944135449
+      Inside_D_8: -6401293465431776349
+      Inside_D_9: 204549223098782097
+      Inside_D_Tile_r00_c00: -1684367510
+      Inside_D_Tile_r00_c01: -1136230687
+      Inside_D_Tile_r00_c02: -1958440898
+      Inside_D_Tile_r00_c03: 1455117567
+      Inside_D_Tile_r00_c04: 1546880364
+      Inside_D_Tile_r00_c10: 674104682
+      Inside_D_Tile_r00_c11: 189220965
+      Inside_D_Tile_r00_c12: 1583339289
+      Inside_D_Tile_r00_c13: -2082072161
+      Inside_D_Tile_r00_c14: -1077946513
+      Inside_D_Tile_r00_c15: -297498300
+      Inside_D_Tile_r01_c00: 2041081187
+      Inside_D_Tile_r01_c01: -1650232400
+      Inside_D_Tile_r01_c02: -766723878
+      Inside_D_Tile_r01_c03: -806576930
+      Inside_D_Tile_r01_c04: -313300426
+      Inside_D_Tile_r01_c10: -1099728970
+      Inside_D_Tile_r01_c11: -2135161901
+      Inside_D_Tile_r01_c12: 2125778541
+      Inside_D_Tile_r01_c13: -967218856
+      Inside_D_Tile_r01_c14: -1003990974
+      Inside_D_Tile_r01_c15: -594316012
+      Inside_D_Tile_r02_c00: -1965203724
+      Inside_D_Tile_r02_c01: -1623700437
+      Inside_D_Tile_r02_c05: -397480746
+      Inside_D_Tile_r02_c06: 1647187455
+      Inside_D_Tile_r02_c07: 802245547
+      Inside_D_Tile_r02_c08: -1525988386
+      Inside_D_Tile_r02_c09: 867930401
+      Inside_D_Tile_r02_c10: -1519889219
+      Inside_D_Tile_r03_c00: 1697904499
+      Inside_D_Tile_r03_c01: -569401842
+      Inside_D_Tile_r03_c02: -1026074045
+      Inside_D_Tile_r03_c03: 1215727847
+      Inside_D_Tile_r03_c05: 2048613419
+      Inside_D_Tile_r03_c06: -457147091
+      Inside_D_Tile_r03_c07: 996528715
+      Inside_D_Tile_r03_c08: -1296058890
+      Inside_D_Tile_r03_c09: -2077321533
+      Inside_D_Tile_r03_c10: -1903672783
+      Inside_D_Tile_r04_c00: 46853592
+      Inside_D_Tile_r04_c01: 947322469
+      Inside_D_Tile_r04_c02: 695065643
+      Inside_D_Tile_r04_c03: -827637085
+      Inside_D_Tile_r04_c05: 1230636807
+      Inside_D_Tile_r04_c06: 1595252858
+      Inside_D_Tile_r04_c07: -2117425484
+      Inside_D_Tile_r04_c08: 545952960
+      Inside_D_Tile_r04_c09: 1481302557
+      Inside_D_Tile_r04_c10: -554266151
+      Inside_D_Tile_r05_c00: -1348396157
+      Inside_D_Tile_r05_c02: -323087789
+      Inside_D_Tile_r05_c05: 1516931901
+      Inside_D_Tile_r05_c06: -1036022026
+      Inside_D_Tile_r05_c07: 262798151
+      Inside_D_Tile_r05_c08: -763135664
+      Inside_D_Tile_r05_c09: 1888851436
+      Inside_D_Tile_r05_c10: -2054277017
+      Inside_D_Tile_r05_c12: 985508079
+      Inside_D_Tile_r05_c13: -1040330141
+      Inside_D_Tile_r06_c00: 99868768
+      Inside_D_Tile_r06_c01: 108438318
+      Inside_D_Tile_r06_c02: -294539149
+      Inside_D_Tile_r06_c07: -609025341
+      Inside_D_Tile_r06_c08: 1288186856
+      Inside_D_Tile_r06_c09: 1810030153
+      Inside_D_Tile_r06_c10: -1820418475
+      Inside_D_Tile_r06_c11: -1702605537
+      Inside_D_Tile_r06_c12: -462674532
+      Inside_D_Tile_r06_c13: 1395975112
+      Inside_D_Tile_r06_c14: 1868740902
+      Inside_D_Tile_r06_c15: 607456517
+      Inside_D_Tile_r07_c00: 261854928
+      Inside_D_Tile_r07_c05: -820239552
+      Inside_D_Tile_r07_c06: 2122403458
+      Inside_D_Tile_r07_c07: 1869382829
+      Inside_D_Tile_r07_c08: 1819219720
+      Inside_D_Tile_r07_c09: 1140879926
+      Inside_D_Tile_r07_c10: 128296450
+      Inside_D_Tile_r07_c11: 1914243027
+      Inside_D_Tile_r07_c12: -1755386027
+      Inside_D_Tile_r07_c13: -1390043963
+      Inside_D_Tile_r07_c14: -611836247
+      Inside_D_Tile_r07_c15: -1833897086
+      Inside_D_Tile_r08_c00: 666223690
+      Inside_D_Tile_r08_c05: -294124444
+      Inside_D_Tile_r08_c06: 185355354
+      Inside_D_Tile_r09_c05: -774678777
+      Inside_D_Tile_r09_c06: 593852685
+      Inside_D_Tile_r09_c07: 383567016
+      Inside_D_Tile_r09_c08: 579876745
+      Inside_D_Tile_r09_c09: 1645445602
+      Inside_D_Tile_r09_c10: -885111049
+      Inside_D_Tile_r09_c11: 994671798
+      Inside_D_Tile_r09_c14: 64334496
+      Inside_D_Tile_r09_c15: 496816635
+      Inside_D_Tile_r10_c07: 1561238705
+      Inside_D_Tile_r10_c08: 34069324
+      Inside_D_Tile_r10_c09: -1993784452
+      Inside_D_Tile_r10_c10: 979841411
+      Inside_D_Tile_r10_c11: -1536058945
+      Inside_D_Tile_r10_c12: 910130
+      Inside_D_Tile_r10_c13: 1466320879
+      Inside_D_Tile_r10_c14: -1237302722
+      Inside_D_Tile_r10_c15: -1757755696
+      Inside_D_Tile_r11_c00: 1538404736
+      Inside_D_Tile_r11_c01: 1887524499
+      Inside_D_Tile_r11_c02: 204240418
+      Inside_D_Tile_r11_c03: -1069979932
+      Inside_D_Tile_r11_c04: -1848773240
+      Inside_D_Tile_r11_c14: 626401166
+      Inside_D_Tile_r11_c15: 726987754
+      Inside_D_Tile_r12_c00: -927871322
+      Inside_D_Tile_r12_c01: -1875040480
+      Inside_D_Tile_r12_c02: -1183076607
+      Inside_D_Tile_r12_c03: 638416453
+      Inside_D_Tile_r12_c04: -1258302345
+      Inside_D_Tile_r12_c06: 1977651749
+      Inside_D_Tile_r12_c07: -613873914
+      Inside_D_Tile_r12_c11: 494063207
+      Inside_D_Tile_r12_c12: -1873514093
+      Inside_D_Tile_r12_c13: 2070601452
+      Inside_D_Tile_r12_c14: 2039723870
+      Inside_D_Tile_r12_c15: -1959419867
+      Inside_D_Tile_r13_c00: 796811197
+      Inside_D_Tile_r13_c01: 1018687842
+      Inside_D_Tile_r13_c02: 2115510720
+      Inside_D_Tile_r13_c03: 475443996
+      Inside_D_Tile_r13_c04: 1366495928
+      Inside_D_Tile_r13_c07: 845624170
+      Inside_D_Tile_r13_c10: -447734021
+      Inside_D_Tile_r13_c11: -798459393
+      Inside_D_Tile_r13_c12: -307229059
+      Inside_D_Tile_r13_c13: 1439577862
+      Inside_D_Tile_r13_c14: -367785759
+      Inside_D_Tile_r13_c15: 302727470
+      Inside_D_Tile_r14_c00: 890930114
+      Inside_D_Tile_r14_c01: 1653143021
+      Inside_D_Tile_r14_c05: -703529593
+      Inside_D_Tile_r14_c06: -576624369
+      Inside_D_Tile_r14_c07: 928231770
+      Inside_D_Tile_r14_c08: -715769777
+      Inside_D_Tile_r14_c09: 2055210741
+      Inside_D_Tile_r14_c10: 1855408452
+      Inside_D_Tile_r14_c11: 1147050503
+      Inside_D_Tile_r14_c12: -1665086399
+      Inside_D_Tile_r14_c13: -1594116470
+      Inside_D_Tile_r14_c14: -1691102267
+      Inside_D_Tile_r15_c00: -2106968862
+      Inside_D_Tile_r15_c06: -2023226103
+      Inside_D_Tile_r15_c07: -580274978
+      Inside_D_Tile_r15_c08: 460813795
+      Inside_D_Tile_r15_c09: -1044021573
+      Inside_D_Tile_r15_c10: -2101972035
+      Inside_D_Tile_r15_c11: -1642856209
+      Inside_D_Tile_r15_c12: -1206407978
+      Inside_D_Tile_r15_c13: 1948928826
+      Inside_D_Tile_r15_c14: -837824228
+      Shoe_Rack: 1973002053
+      Sink_Bowl_Dark: -1646724655
+      Sink_Bowl_Light: 60590964
+      Sink_Cabinet_Metal: -1969943150
+      Sink_Cabinet_Wood: -1307856583
+      Toilet_Stall: -615674618
+      Urinal_Tall: 960669745
+      Urinal_Wall: 1886891174
+      VendingMachine_Green: 632945164
+      VendingMachine_Purple: -1731106858
+      '["Character_Survivor_Girl': 1429235790
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
